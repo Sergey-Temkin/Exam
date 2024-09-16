@@ -1,0 +1,61 @@
+[
+    {
+        "car_number": "1",
+        "problems": [],
+        "total": 0
+    },
+    {
+        "car_number": "2",
+        "problems": [
+            {
+                "problem": "Engine problem",
+                "price": 2000
+            },
+            {
+                "problem": "Breaks problem",
+                "price": 1000
+            }
+        ],
+        "total": 10
+    },
+    {
+        "car_number": "3",
+        "problems": [],
+        "total": 1000
+    },
+    {
+        "car_number": "4",
+        "problems": [],
+        "total": 0
+    },
+    {
+        "car_number": "5",
+        "problems": [
+            {
+                "problem": "Engine",
+                "price": 2000
+            },
+            {
+                "problem": "Breaks",
+                "price": 1000
+            },
+            {
+                "problem": "5000km",
+                "price": 500
+            },
+            {
+                "problem": "10,000km",
+                "price": 1000
+            },
+            {
+                "problem": "Filters&Oil",
+                "price": 250
+            },
+            {
+                "problem": "Gear",
+                "price": 1000
+            }
+        ],
+        "total": 5750
+    }
+]
